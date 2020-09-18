@@ -5,7 +5,7 @@ Sort kernel module that showcase the most common kernel data structures (linked 
 Prepared test:
 
 ```sh
-zildj1an@debian$ ./test-proj2.sh 
+zildj1an@debian$ ./test.sh 
 Linked list: 1, 2, 3, 4, 5
 Hash table: 1, 4, 2, 5, 3
 Red-black tree: 1, 2, 3, 4, 5
