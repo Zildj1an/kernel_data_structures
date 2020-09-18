@@ -19,10 +19,7 @@ XArray: 1, 2, 3, 4, 5
 [ 1769.529879] 
                Cleaning up...
 zildj1an@debian$ 
-
-
 ```
-
 Manual usage:
 
 ```sh
