@@ -4,7 +4,7 @@ Sort kernel module that showcase the most common kernel data structures (linked 
 
 
 Usage:
-```
+```bash
 zildj1an@debian$ sudo insmod datas.ko int_str="1,2,3,4,5"
 zildj1an@debian$ cat /proc/datas
 Linked list: 1, 2, 3, 4, 5
